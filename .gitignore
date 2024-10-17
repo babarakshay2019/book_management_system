@@ -1,0 +1,37 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*.pdb
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Django
+*.sqlite3
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.coverage
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Docker
+**/node_modules
+Dockerfile
+docker-compose.yml

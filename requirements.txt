@@ -1,0 +1,6 @@
+Django
+djangorestframework
+drf-spectacular
+django-filter
+djangorestframework-simplejwt
+requests
