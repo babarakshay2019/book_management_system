@@ -19,7 +19,7 @@ A Django web application for managing book rentals for students. The application
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/babarakshay2019/book_management_system.git
    cd student_rental
 
 2. Build the Docker image:
